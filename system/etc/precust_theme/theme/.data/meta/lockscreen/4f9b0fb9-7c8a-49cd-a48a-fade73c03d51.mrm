@@ -1,0 +1,65 @@
+{
+  "localId": "4f9b0fb9-7c8a-49cd-a48a-fade73c03d51",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "8cd641642b77633c22324b5069be722b0096c112",
+  "platform": 6,
+  "size": 196458,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "zh_CN": "女生",
+    "bo_CN": "བུད་མེད།",
+    "zh_TW": "女生",
+    "ug_CN": "ئايالچە",
+    "en_US": "Pink Blush"
+  },
+  "descriptions": {
+    "zh_CN": "樱花色的粉嫩，搭配图标柔美的圆润萌感，编织出一场少女的美梦。",
+    "bo_CN": "བུ་མོ། གཅེས་པར་འོས་ལ་མཉེན་ཆ་ལྡན་པའི་ཟིང་སྐྱའི་མདོག་ལ་བསིལ་ཆ་ལྡན་པའི་པར་རིས་ཡི་ཚོར་སྣང་དེ་བྱུང་ཚེ་གཞོན་ནུ་མའི་དྭངས་གསལ་ཚོར་བ་དེ་མངོན་ཐུབ།",
+    "zh_TW": "櫻花色的粉嫩，搭配圖案柔美的圓潤萌感，編織出一場少女的美夢。",
+    "ug_CN": "ئىنتايىن ئوماق،پۈۋلەپ تېشىۋەتكۈدەك يۇمران،ئاجايىپ ماسلاشقان ئالاھىدە سىنبەلگە،قىزچاقنىڭ تەسەۋۋۇر خىيالىنى ئەكىس ئەتتۈرۈپ بېرىدۇ。",
+    "en_US": "Pink up your life!"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ],
+    "en_US": [
+      "en_US_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ],
+    "en_US": [
+      "en_US_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "6b8971d0-853f-4eaa-b585-7bd6e6fccfed",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

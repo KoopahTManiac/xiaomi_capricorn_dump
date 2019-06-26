@@ -1,0 +1,69 @@
+{
+  "localId": "1914afcd-66ab-4c3f-942d-696b7d654928",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "026022ddab9d841c853c0b44c7c94a809cbc81cb",
+  "platform": 6,
+  "size": 7903,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "zh_CN": "轻奢",
+    "bo_CN": "རྒྱས་སྤྲོས་ཅུང་ཙམ།",
+    "zh_TW": "輕奢",
+    "ug_CN": "پوزۇر",
+    "en_US": "High Life"
+  },
+  "descriptions": {
+    "zh_CN": "经典的深咖啡配色，配以暗金色泽，沉稳干练又显内涵，一如你对生活品质的考究，这就是MIUI轻奢版。",
+    "bo_CN": "ཅུང་རྒྱས་སྤྲོད། ཁ་ཧྥེ་མདོག་དང་གསེར་མདོག་སྦྱར་བས། ཉམས་སྣང་དོད་པོ་མངོན་ལ་སྐུ་ཉིད་ཀྱི་འཚོ་བའི་སྤུས་ཚད་ཀྱི་ཞིབ་དཔྱད་ལྟ་བུ་ཞིག ་ཡིན་པས། འདི་ནི་MIUIཡི་ཅུང་རྒྱས་སྤྲོད་ཀྱི་པར་གཞི་ཞིག་ཡིན།",
+    "zh_TW": "經典的深咖啡配色，配以暗金色澤，沈穩幹練又顯內涵，一如你對生活品質的考究，這就是MIUI輕奢版。",
+    "ug_CN": "تەڭشەلگەن كىلاسىسىك قېنىق قەھۋە رەڭ،تۇتۇق ئالتۇن رەڭنىڭ ماسلىشىشى،مۇقىم ،راۋان ھەم ئىچكى مەزمۇننى كۆرسىتىپ بېرەلەيدىغان،خۇددى سىزنىڭ تۇرمۇشقا بولغان بېرىلىشىڭىزدەك،مانا بۇ Miui نىڭ پوزۇر نەشىرى",
+    "en_US": "For the person who appreciates the finer things in life."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ],
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ],
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "5b3447fc-a4f6-42d1-805d-93ab6c389c1e",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

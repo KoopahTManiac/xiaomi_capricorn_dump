@@ -1,0 +1,69 @@
+{
+  "localId": "eea382d7-ce81-4319-b465-eab693b43a9e",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "0eebc67888e03665fa8cf3ac4f619907b41ed594",
+  "platform": 6,
+  "size": 22434,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "zh_CN": "男生",
+    "bo_CN": "སྐྱེས་པ།",
+    "zh_TW": "男生",
+    "ug_CN": "ئەرەنچە",
+    "en_US": "Ocean Breeze"
+  },
+  "descriptions": {
+    "zh_CN": "海洋色壁纸搭配波浪底纹，满屏的运动感与成长感，青春就是明快！",
+    "bo_CN": "བུ། རྒྱ་མཚོའི་མདོག་གི་རྩིག་ཤོག་ལ་འཁྱག་ཤུད་ལྷམ་གྱི་གཞི་རིས་འདི་སྦྱར་ཚེ། ལུས་སྦྱོང་གི་རྣམ་པ་དང་འཚར་ལོངས་ཀྱི་ཚོར་བ་དྲག་པོ་ཞིག་ཡོང་ངེས། ལང་ཚོ་ནི་ཁ་གསལ་དོན་གསལ་ཞིག་ཡིན།",
+    "zh_TW": "海洋色桌布搭配波浪底紋，滿屏的運動感與成長感，青春就是明快！",
+    "ug_CN": "دېڭىز رەڭلىك تەگلىككە سىيرىلىش تاختىسى ماسلاشقان،تولۇپ تاشقان ھەرىكەت ۋە يېتىلىش ئۇسلۇبى، تېز ئۆتكەن ياشلىق。",
+    "en_US": "There is no blue without yellow and orange, there is no boy without hope and happiness."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg"
+    ],
+    "en_US": [
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg"
+    ],
+    "en_US": [
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "e75f2b02-8ac5-486f-a9a0-4f19d872d6a5",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}
